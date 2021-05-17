@@ -15,6 +15,8 @@ Naive Bayes algorithm is the algorithm that learns the probability of an object 
 Polynomial regression is a form of regression analysis in which the relationship between the independent variable x and the dependent variable y is modelled as an nth degree polynomial in x.This algorithm has been used for predicting the number of cases that will be recorded in the next few days after monitoring the cases of a region for 50 consecutive days.We have considered the days as the input and using that we are predicting the number of cases in the next few days as the output.<br>
 ## 6.SVM<br>
 A support vector machine (SVM) is a supervised machine learning model that uses classification algorithms for two-group classification problems.We have used this supervised learning algorithm for finding clusters of a particular age and area having covid.Here, we have considered the age and cases in the area as the input parameter and we are determining the covid positivity of a person as the output.<br>
+# Datasets<br>
+Kindly refer the Github csv files in the repository for complete dataset.<br>
 # Implementation<br>
 Kindly refer the Github files in the repository for complete implementation details of all the algorithms.<br>
 # Results and accuracy<br>
