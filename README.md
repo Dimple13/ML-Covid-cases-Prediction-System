@@ -22,6 +22,6 @@ Kindly refer the Github files in the repository for complete implementation deta
 # Results and accuracy<br>
 For the individual resuls and accuracy kindly refer individual notebook files.<br>
 Comparing the accuracy of KNN and SVM we see that for our dataset, SVM performed better with an accuracy of 92.3% and KNN had an accuracy of about 80%.<br>
-Comparing the accuracy of Naive Bayes and Decision TRee Classifier, We observe that for the same dataset, Naive bayes performed better with an accuracy of almost 88.89% whereas the decision tree classifier had an accuracy of 77.79%.<br>
+Comparing the accuracy of Naive Bayes and Decision Tree Classifier, We observe that for the same dataset, Naive bayes performed better with an accuracy of almost 88.89% whereas the decision tree classifier had an accuracy of 77.79%.<br>
 # Conclusion<br>
 Thus our system,when extended on real data, will help in prediction of covid cases location wise like zone,district,state,country which will help the hospitals and government to predict the cases.Also,the predictions made with the help of various algorithms will be useful for the management authorities and doctors to recognize the steps to be taken in future to handle the patient influx.Thus, this system can be useful to people and doctors in managing the current vicious spread of covid cases.
